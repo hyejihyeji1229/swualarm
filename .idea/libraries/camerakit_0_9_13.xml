@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="camerakit-0.9.13">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/42bdf52373e27dfefa006d1c9053aa818bffd625/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/42bdf52373e27dfefa006d1c9053aa818bffd625/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.flurgle/camerakit/0.9.13/a28262d248008b34bf4d1edd96cc46b0301985f5/camerakit-0.9.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

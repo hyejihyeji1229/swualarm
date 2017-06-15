@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f32dfca91b0558107042e9c289a61a9f5840805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/swucomputer/.android/build-cache/dea7137e892aec4ee556313c7faebe00b52016b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d73d5ac51f3dc1526fac372c5fafc6bd1a1c4702/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swucomputer/.android/build-cache/dea7137e892aec4ee556313c7faebe00b52016b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/pre-dexed/release/classes_d73d5ac51f3dc1526fac372c5fafc6bd1a1c4702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swucomputer/.android/build-cache/3c61ed6479474129b8fb1b0fde2918afcbea445c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/pre-dexed/release/classes_6b47bb972fe7bc82333c917b5cdfbe02c6393fd6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/swucomputer/.android/build-cache/3c61ed6479474129b8fb1b0fde2918afcbea445c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b47bb972fe7bc82333c917b5cdfbe02c6393fd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swucomputer/AndroidStudioProjects/Alarm/app/libs/libandroid_tensorflow_inference_java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6454951fd82b6c2de1666263e2cd6e593627d878">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/pre-dexed/release/libandroid_tensorflow_inference_java_88e8211136a5b8bc34afc89450fc366b74122d59.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/swucomputer/.android/build-cache/ce24897c0af8f0c33baecf5ad104ac2bc8ca2a38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_891bdc3a80e024a5126626c16f658d4b8cc83c62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/swucomputer/AndroidStudioProjects/Alarm/app/libs/libandroid_tensorflow_inference_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6454951fd82b6c2de1666263e2cd6e593627d878">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/transforms/dex/debug/folders/1000/2/libandroid_tensorflow_inference_java_88e8211136a5b8bc34afc89450fc366b74122d59/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swucomputer/.android/build-cache/b54c49040812dd0039d25960b1ca5375dbc958d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/pre-dexed/release/classes_38927ab69fd1fad4da45ff543f72803d6a557e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swucomputer/.android/build-cache/ce24897c0af8f0c33baecf5ad104ac2bc8ca2a38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/pre-dexed/release/classes_891bdc3a80e024a5126626c16f658d4b8cc83c62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/swucomputer/.android/build-cache/b54c49040812dd0039d25960b1ca5375dbc958d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38927ab69fd1fad4da45ff543f72803d6a557e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/swucomputer/.android/build-cache/42bdf52373e27dfefa006d1c9053aa818bffd625/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de88437391a415b2e5985d2ff36e017141adcb4d">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/pre-dexed/release/classes_9630dd2f33111513d861ec626495ebb879da78c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8024166683d42dd6a89a53185102c2568a86a249">
+        <dex dex="/Users/swucomputer/AndroidStudioProjects/Alarm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_09fb21e458a203dbf9ff3fdf2336b4ef55936457/classes.dex" />
+    </item>
+
+</items>
