@@ -1,5 +1,4 @@
-# swualarm
-# Alarm Adroid App (turn off your by Image Recognition)
+# Image Recognition based Alarm App (turn off your alarms by Image Recognition)
 This is an image recognition based Android alarm application.
 
 
